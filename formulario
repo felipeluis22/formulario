@@ -22,8 +22,12 @@
                 <input type="text" id="endereco" >
 
                 <p>Outras informações</p>
-
-                <input type="submit" value="Enviar dados">
+                <textarea cols="5px" rows="10px"</textarea>
+                    <p>marque as opções </p>
+                    <input type="radio" value="TELEFONE">
+                    <label><input type="checkbox">MAE SOLTEIRA</label>
+                    <br>
+                  <input type="submit" value="Enviar dados">
 
             </form>
       </main>

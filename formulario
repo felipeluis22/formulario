@@ -31,9 +31,46 @@
 
             </form>
             <table>
-            
+                   <tr>
+                   
+                  <td>HORARIO</td>
+                  <td>Segunda</td>
+                  <td>Terça</td>
+                  <td>Quarta</td>
+                  <td>Quinta</td>
+                  <td>Sexta</td>
+                  
+                  </tr>
+                  
+                  <tr>
+                  
+                  <td>07:10</td>
+                  <td>Artes</td>
+                  <td>Matematica</td>
+                  <td>Fisica</td>
+                  <td>Portugues</td>
+                  <td>Matematica</td>
+                  <td>Historia</td>
+                  
+                  </tr>
+                  
+                  <tr>
+                  
+                  <td>90:78</td>
+                  <td>Ed fisica</td>
+                  <td>Geografia</td>
+                  <td>PC</td>
+                  <td>artes</td>
+                  
+                  
+                  
+                  
+                   
+                   
             </table>
+            </form.
+            </main>
+            </body>
+            </html>
             
-      </main>
-</body>
-</html>
+           

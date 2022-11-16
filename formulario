@@ -7,7 +7,15 @@
           <meta name="viewport" content=" width=device-width, initial-scale=1.0 /">
 
    <body>
-       <maim>
+         <style>
+        thead {
+        background: pink
+         color: black
+         font-wweight: white
+         }
+         </style>
+         
+       <main>
          <title>Formulario</title>
                       <h1>EXEMPLO DE FORMULARIO</h1>
                          <br>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
     <head>
           <meta charset="utf-8">
           <meta name="viewport" content="width=device-width">
@@ -7,19 +7,29 @@
           <meta name="viewport" content=" width=device-width, initial-scale=1.0 /">
 
    <body>
-         <style>
-        thead {
-        background: pink
-         color: black
-         font-wweight: white
-         }
-         </style>
-         
+       
+       <style>
+           table {
+           background: black;
+           }
+           
+               thead {
+               color: lightpink;
+                 font-weigth: yellow;
+           }
+           
+           td {
+           border: 1px solid #000000;
+           border-color: lightskyblue;
+           }
+           
+       </style>
+       
        <main>
          <title>Formulario</title>
                       <h1>EXEMPLO DE FORMULARIO</h1>
                          <br>
-                         
+                            <main>
                                
                  <table>
                        
@@ -41,7 +51,7 @@
                        <td>Projeto de vida</td>
                        <td>Artes</td>  
                        <td>Ed Financeira</td>
-                       <td>Português</td>
+                          <td>Portugues</td>
                        
                        </tr>
                        
@@ -51,7 +61,6 @@
                        <td>Português</td>
                        <td>Ed financeira</td>
                        <td>Biologia</td>
-                       <td>Artes</td>
                        <td>Artes</td>
                        <td>Artes</td>
                        
@@ -65,7 +74,7 @@
                        <td>Biologia</td>
                        <td>Fisica</td>
                        <td>Artes</td>
-                       <td>Artes</td>
+                 
                        
                        </tr>
                        
@@ -77,7 +86,7 @@
                        <td>Fisica</td>
                        <td>Projeto de vida</td>
                        <td>Ed fisica</td>
-                       <td>ED fisica</td>
+                     
                        
                        </tr>
                        
@@ -89,7 +98,7 @@
                        <td>Geografia</td>
                        <td>Historia</td>
                        <td>Historia</td>
-                       <td>Portugues</td>
+                     
                        
                        </tr>
                      
